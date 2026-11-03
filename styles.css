@@ -13,6 +13,12 @@ body {
     background-color: #22181C;
 }
 
+.aviso {
+    color: red;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
 .container-buttons {
     margin: 40px 0;
     display: flex;
